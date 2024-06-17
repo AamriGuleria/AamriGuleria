@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aamri Guleria</h1>
 <h3 align="center">A passionate Full Stack Developer and a dedicated Data Science enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamriguleria" alt="aamriguleria" /></a> </p>
+
 
 - 🌱 I’m currently learning *Machine Learning Techniques , Image Processing*
 
