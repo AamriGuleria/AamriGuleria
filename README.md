@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aamri Guleria</h1>
 <h3 align="center">A passionate Full Stack Developer and a dedicated Data Science enthusiast</h3>
 
-
+![Girl Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 - 🌱 I’m currently learning *Machine Learning Techniques , Image Processing*
 
