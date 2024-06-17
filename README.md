@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aamri Guleria</h1>
 <h3 align="center">A passionate Full Stack Developer and a dedicated Data Science enthusiast</h3>
-![let's Code!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhyZmh6NmFyYjg3dHk3bTczbWs5OGNkYmtrN2htODdyNXd2dmI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp)
+![Girl Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 - 🌱 I’m currently learning *Machine Learning Techniques , Image Processing*
